@@ -1,0 +1,6 @@
+.error {
+    font-weight: bold;
+    color: red;
+    text-shadow: 2px 0px black;
+    font-family: sans-serif;
+}
